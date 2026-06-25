@@ -1,0 +1,44 @@
+cff-version: 1.2.0
+
+title: OpenWEC-Lab: Open-Source Instrumentation Platform for Laboratory-Scale Wave Energy Converters
+
+message: >
+  If you use OpenWEC-Lab in your research, please cite this repository.
+
+type: software
+
+authors:
+  - family-names: Salinas Casseres
+    given-names: Manuel Alejandro
+    affiliation: Universidad Tecnológica de Bolívar
+    orcid: https://orcid.org/0009-0003-6210-9327
+
+url: https://github.com/ManuelRanchodda/OpenWEC-Lab
+
+repository-code: https://github.com/ManuelRanchodda/OpenWEC-Lab
+
+license: MIT
+
+version: 1.0.0
+
+abstract: >
+  OpenWEC-Lab is an open-source, low-cost instrumentation platform
+  developed for laboratory-scale wave energy converter (WEC)
+  experiments. The repository includes electronic hardware,
+  PCB designs, firmware, documentation, and experimental
+  resources for synchronized acquisition of hydrodynamic,
+  inertial, mechanical, and electrical variables.
+
+keywords:
+  - Wave Energy
+  - Wave Energy Converter
+  - WEC
+  - Ocean Engineering
+  - Marine Renewable Energy
+  - Instrumentation
+  - Embedded Systems
+  - ESP32
+  - PCB
+  - Power Take-Off
+  - Laboratory Platform
+  - Open Hardware
