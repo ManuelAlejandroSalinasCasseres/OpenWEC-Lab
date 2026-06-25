@@ -16,4 +16,6 @@ This board is responsible for the acquisition of hydrodynamic variables during l
 - Bill of Materials (BOM)
 - Images
 - Firmware
+
+
 This PCB was developed for laboratory-scale wave energy converter experiments, enabling synchronized acquisition of wave elevation data through an array of ultrasonic sensors.
